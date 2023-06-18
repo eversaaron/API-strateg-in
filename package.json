@@ -1,0 +1,26 @@
+{
+  "name": "my_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eversaaron/API-strateg-in.git"
+  },
+  "author": "Aaron EVERS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eversaaron/API-strateg-in/issues"
+  },
+  "homepage": "https://github.com/eversaaron/API-strateg-in#readme",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.0"
+  }
+}
